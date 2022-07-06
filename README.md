@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ngadimin51
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning react
